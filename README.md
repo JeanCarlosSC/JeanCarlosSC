@@ -1,7 +1,10 @@
-### Hi there 👋
+![Github Stats for JeanCarlos911](https://github-readme-stats.vercel.app/api?username=JeanCarlos911&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=ffffff)
+
 
 <!--
-**JeanCarlos911/JeanCarlos911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CrissUD/CrissUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
