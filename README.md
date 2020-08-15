@@ -1,3 +1,5 @@
+<img alt="Banner | JeanCarlos911" src="banner.gif" />
+
 ![Github Stats for JeanCarlos911](https://github-readme-stats.vercel.app/api?username=JeanCarlos911&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=ffffff)
 
 
