@@ -6,7 +6,7 @@
 
 ### Stats of the different programing language
 --------------
-[![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos911)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### What i like to do
 I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!  
