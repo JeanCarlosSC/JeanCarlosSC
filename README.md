@@ -18,10 +18,10 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am 
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
 ### 💡 Goals for 2020:
-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
-- Grow as a person
+- [ ] Finish my first app on android and publish it on play store
+- [ ] Learn the basics of JavaScript, TypeScript
+- [ ] Become skilled in Java and kotlin
+- [x] Grow as a person
 
 ### ⚡ Relevant achievement
 - Enter the Francisco José de Caldas district university at a very low cost
