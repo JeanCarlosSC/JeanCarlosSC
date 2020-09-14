@@ -26,4 +26,4 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am 
 - Enter the Francisco José de Caldas district university at a very low cost
 
 ### 🛠 Interested in:
-- Desktop apps, mobile apps, fronted, devOps, designer.
+- Desktop apps, mobile apps.
