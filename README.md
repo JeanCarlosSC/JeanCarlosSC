@@ -12,7 +12,6 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am 
 
 ### ✔️ I'm currently learning
 - Kotlin (android development and desktop apps)
-- Java (desktop apps)
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
