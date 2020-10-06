@@ -26,5 +26,3 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am 
 
 ### 🛠 Interested in:
 - Desktop apps, mobile apps.
-
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlosSC&repo=matematicas-discretas-y-combinatoria&show_owner=false)](https://github.com/JeanCarlosSC/matematicas-discretas-y-combinatoria)
