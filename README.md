@@ -8,19 +8,19 @@
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love to do complex, fun and useful things with programming, listening to different types of music, sharing with friends and much more.
+Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I love to do complex, fun and useful things with programming, listening to different types of music, sharing with friends and much more.
+
+### 😍 What i like to do:
+- I like CHALLENGES, LEARNING, LOGICAL PROBLEMS, CODE OPTIMIZATION, ALGORITHMICS, SHARING and LIVING !!!
 
 ### ✔️ I'm currently learning
 - Kotlin (desktop apps)
-
-### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
 ### 💡 Goals for 2020:
 - [ ] Become skilled in kotlin
 
 ### ⚡ Relevant achievement
-- Enter the Francisco José de Caldas district university at a very low cost
+- Study at the Francisco José de Caldas district university at a very low cost
 
 ### 🛠 Interested in:
-- Desktop apps, mobile apps.
+- Challenges.
