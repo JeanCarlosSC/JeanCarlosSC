@@ -2,10 +2,10 @@
 
 <p>
   <a>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8" />
   </a>
   
-  [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I love to do complex, fun and useful things with programming, listening to different types of music, sharing with friends and much more.
