@@ -8,7 +8,7 @@
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun and useful things with programming.
+Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
 
 ### 😍 What i like to do:
 - I like CHALLENGES, LEARNING, LOGICAL PROBLEMS, CODE OPTIMIZATION, ALGORITHMS, MATHS, SHARING and LIVING !!!
