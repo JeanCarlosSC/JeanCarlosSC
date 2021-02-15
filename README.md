@@ -25,13 +25,16 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to 
 ### 💡 Goals for 2021:
 - [ ] Learn basic javascript
 
-### 💡 Goals for 2020:
-- [x] Become skilled in kotlin
-
-### 🧰 Tools:
+### 🧰 Open mind with:
+Programming languages like:
 - Kotlin
 - Java
 - c++
 - Python
+And other tools like:
 - html
 - css
+- latex
+
+### 💡 Goals for 2020:
+- [x] Become skilled in kotlin
