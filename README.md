@@ -30,7 +30,7 @@ Programming languages like:
 - Kotlin
 - Java
 - c++
-- Python
+- Python  
 And other tools like:
 - html
 - css
