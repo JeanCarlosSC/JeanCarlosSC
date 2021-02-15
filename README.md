@@ -27,3 +27,11 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to 
 
 ### 💡 Goals for 2020:
 - [x] Become skilled in kotlin
+
+### 🧰 Tools:
+- Kotlin
+- Java
+- c++
+- Python
+- html
+- css
