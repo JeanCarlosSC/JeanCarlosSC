@@ -11,19 +11,19 @@
 Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
 
 ### 😍 What i like to do:
-- I like CHALLENGES, LEARNING, LOGICAL PROBLEMS, CODE OPTIMIZATION, ALGORITHMS, MATHS, SHARING and LIVING !!!
+- Software architecture, algorithms, frontend, challenges, logical problems.
 
 ### ✔️ I'm currently learning
-- Javascript
+- Javascript.
 
 ### ⚡ Relevant achievement
-- Study at the Francisco José de Caldas district university at a very low cost
+- Study at the Francisco José de Caldas district university at a very low cost.
 
 ### 🛠 Interested in:
 - Challenges.
 
 ### 💡 Goals for 2021:
-- [ ] Learn basic javascript
+- [ ] Learn basic javascript.
 
 ### 🧰 Open mind with:
 - Kotlin
