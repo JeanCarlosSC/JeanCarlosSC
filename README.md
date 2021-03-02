@@ -10,24 +10,26 @@
   </a>
 </p>
 
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
+<p>
+  Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
+</p>
 
-### 😍 What i like to do:
-- Software architecture, algorithms, frontend, challenges, logical problems.
+<h3> 😍 What i like to do:</h3>
+<p> Software architecture, algorithms, frontend, challenges, logical problems.</p>
 
-### ✔️ I'm currently learning
-- Javascript.
+<h3> ✔️ I'm currently learning</h3>
+<p> Javascript.</p>
 
-### ⚡ Relevant achievement
-- Study at the Francisco José de Caldas district university at a very low cost.
+<h3> ⚡ Relevant achievement</h3>
+<p> Study at the Francisco José de Caldas district university at a very low cost.</p>
 
-### 🛠 Interested in:
-- Challenges.
+<h3> 🛠 Interested in:
+<p> Challenges.</p>
 
-### 💡 Goals for 2021:
-- [ ] Learn basic javascript.
+<h3> 💡 Goals for 2021:</h3>
+<p> Learn basic javascript.</p>
 
-### 🧰 Open mind with:
+<h3> 🧰 Open mind with:</h3>
 <ol>
   <li>Programming languages</li>
   
