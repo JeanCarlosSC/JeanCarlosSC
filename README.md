@@ -26,16 +26,14 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to 
 - [ ] Learn basic javascript
 
 ### 🧰 Open mind with:
-Programming languages like:
 - Kotlin
 - Java
 - c++
 - Python
 - JavaScript
-
-And other tools like:
 - html
 - css
+- SQL
 - latex
 
 ### 💡 Goals for 2020:
