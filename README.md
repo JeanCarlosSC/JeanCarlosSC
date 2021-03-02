@@ -31,6 +31,7 @@ Programming languages like:
 - Java
 - c++
 - Python
+- JavaScript
 
 And other tools like:
 - html
