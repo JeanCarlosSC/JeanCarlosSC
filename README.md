@@ -14,6 +14,7 @@
         <img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
       </a>
     </div>
+  </center>
 </div>
 
 <p>
