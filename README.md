@@ -4,7 +4,7 @@
 
 <div id="contenedor" text-align="center">
   <center>
-    <div class="image" display="inline-block" text-align="center" width="50%" position="relative">
+    <div class="image" text-align="left" display="inline-block" text-align="center" width="50%" position="relative">
       <a>
         <img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8" />
       </a>
