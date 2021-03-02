@@ -3,6 +3,7 @@
 </div>
 
 <br>
+
 <table border="0">
   <tbody>
     <tr>
@@ -19,6 +20,7 @@
     </tr>
   </tbody>
 </table>
+
 <br>
 
 <p>
@@ -48,27 +50,27 @@
 <h3> 🧰 Open mind with:</h3>
 
 <ol>
-  <li>Programming languages</li>
+  <li>Programming languages:</li>
 
   <ul>
-    <li>Kotlin</li>
-    <li>Java</li>
-    <li>C++</li>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>SQL</li>
-    <li>Tex</li>
+    <li>Kotlin.</li>
+    <li>Java.</li>
+    <li>C++.</li>
+    <li>Python.</li>
+    <li>JavaScript.</li>
+    <li>SQL.</li>
+    <li>TeX.</li>
   </ul>
 
-  <li>Style sheet languages</li>
+  <li>Style sheet languages:</li>
 
   <ul>
-    <li>CSS</li>
+    <li>CSS.</li>
   </ul>
 
-  <li>Markup languages</li>
+  <li>Markup languages:</li>
 
   <ul>
-    <li>HTML</li>
+    <li>HTML.</li>
   </ul>
 </ol>
