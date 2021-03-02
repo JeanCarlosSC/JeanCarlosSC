@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to 
 ### 🧰 Open mind with:
 - Kotlin
 - Java
-- c++
+- C++
 - Python
 - JavaScript
 - HTML
