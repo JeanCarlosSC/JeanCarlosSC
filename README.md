@@ -1,27 +1,21 @@
-<!--      .image {
-        padding: 5px 10px 5px 10px;
-        margin: 2px;
-        width: 200px;
-      }
--->
 <div align="center">
   <img alt="Banner | JeanCarlosSC" src="https://i.imgur.com/34fiEUG.gif">
 </div>
 
 <div id="contenedor" text-align="center">
   <center>
-    <div class="image" display="inline-block" text-align="center" width="50%">
+    <div class="image" display="inline-block" text-align="center" width="50%" position="relative">
       <a>
-        <img width="50%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8" />
+        <img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8" />
       </a>
     </div>
-    <div class="image" display="inline-block" text-align="center" width="50%">
+    <div class="image" display="inline-block" text-align="center" width="50%" position="relative">
+      <a>
+        <img width="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
+      </a>
     </div>
 </div>
 
-<a>
-        <img width="50%" align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
-</a>
 <p>
   Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
 </p>
