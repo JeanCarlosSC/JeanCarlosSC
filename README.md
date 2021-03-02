@@ -1,10 +1,7 @@
 <!--      .image {
-        background-image: url(http://cdn2.hubspot.net/hubfs/763617/images/img-left.png?t=1466090614807);
         padding: 5px 10px 5px 10px;
         margin: 2px;
-        display:inline-block;
         width: 200px;
-        text-align: center;
       }
 -->
 <div align="center">
@@ -13,18 +10,18 @@
 
 <div id="contenedor" text-align="center">
   <center>
-    <div class="image">
+    <div class="image" display="inline-block" text-align="center" width="50%">
       <a>
         <img width="50%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8" />
       </a>
     </div>
-    <div class="image">
-      <a>
-        <img width="50%" align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
-      </a>
+    <div class="image" display="inline-block" text-align="center" width="50%">
     </div>
 </div>
 
+<a>
+        <img width="50%" align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
+</a>
 <p>
   Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
 </p>
