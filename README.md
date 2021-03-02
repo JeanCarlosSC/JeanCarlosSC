@@ -55,6 +55,3 @@
     <li>HTML</li>
   </ul>
 </ol>
-
-### 💡 Goals for 2020:
-- [x] Become skilled in kotlin
