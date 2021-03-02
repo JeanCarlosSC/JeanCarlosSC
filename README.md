@@ -31,10 +31,10 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to 
 - c++
 - Python
 - JavaScript
-- html
-- css
+- HTML
+- CSS
 - SQL
-- latex
+- TeX
 
 ### 💡 Goals for 2020:
 - [x] Become skilled in kotlin
