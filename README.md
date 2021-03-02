@@ -13,7 +13,7 @@
     </div>
     <div class="image" text-align="right" display="inline-block" text-align="center" position="relative">
       <a>
-        <img width="50%" height="50%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
+        <img width="40%" height="40%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
       </a>
     </div>
   </center>
