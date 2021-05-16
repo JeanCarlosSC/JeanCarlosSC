@@ -33,7 +33,7 @@
 
 <h3> ✔️ I'm currently learning</h3>
 
-<p> Javascript.</p>
+<p> Android development.</p>
 
 <h3> ⚡ Relevant achievement</h3>
 
@@ -45,7 +45,7 @@
 
 <h3> 💡 Goals for 2021:</h3>
 
-<p> Learn basic javascript.</p>
+<p> Start a RPG android proyect.</p>
 
 <h3> 🧰 Open mind with:</h3>
 
