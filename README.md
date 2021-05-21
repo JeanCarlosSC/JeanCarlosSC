@@ -41,11 +41,7 @@
 
 <h3> 🛠 Interested in:</h3>
 
-<p> Challenges.</p>
-
-<h3> 💡 Goals for 2021:</h3>
-
-<p> Start a RPG android proyect.</p>
+<p> Android development.</p>
 
 <h3> 🧰 Open mind with:</h3>
 
