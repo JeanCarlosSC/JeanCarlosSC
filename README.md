@@ -33,15 +33,11 @@
 
 <h3> ✔️ I'm currently learning</h3>
 
-<p> Android development.</p>
+<p> Native android development.</p>
 
 <h3> ⚡ Relevant achievement</h3>
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
-
-<h3> 🛠 Interested in:</h3>
-
-<p> Android development.</p>
 
 <h3> 🧰 Open mind with:</h3>
 
@@ -68,5 +64,6 @@
 
   <ul>
     <li>HTML.</li>
+    <li>XML.</li>
   </ul>
 </ol>
