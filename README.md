@@ -27,10 +27,6 @@
   Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
 </p>
 
-<h3> ✔️ I'm currently learning</h3>
-
-<p> Android development.</p>
-
 <h3> ⚡ Relevant achievement</h3>
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
