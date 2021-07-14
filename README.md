@@ -24,7 +24,7 @@
 <br>
 
 <p>
-  Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. I love to do complex, fun, beautiful and useful things with programming.
+  Welcome to my GitHub! I'm Jean Carlos, a systems engineering student.
 </p>
 
 <h3> ⚡ Relevant achievement</h3>
