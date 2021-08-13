@@ -33,7 +33,10 @@
 
 <h3> 👁 I'm current learning</h3>
 
-<p> React.</p>
+<ol>
+  <li> React (frontend JavaScript library)</li>
+  <li> Kotlin (programming language)</li>
+</ol>
 
 <h3> 🧰 My favorite tools</h3>
 
