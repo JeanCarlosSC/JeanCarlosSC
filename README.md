@@ -31,31 +31,42 @@
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
 
+<h3> 👁 I'm current learning</h3>
+
+<p> React.</p>
+
 <h3> 🧰 Open mind with:</h3>
 
 <ol>
-  <li>Programming languages:</li>
+  <li>Desktop and android apps</li>
 
   <ul>
-    <li>Kotlin.</li>
-    <li>Java.</li>
-    <li>C++.</li>
-    <li>Python.</li>
-    <li>JavaScript.</li>
-    <li>SQL.</li>
-    <li>TeX.</li>
+    <li>Kotlin (Desktop and android apps)</li>
+    <li>Java (Desktop applications)</li>
+    <li>XML (Android markup language)</li>
   </ul>
-
-  <li>Style sheet languages:</li>
+  
+  <li>Web design</li>
 
   <ul>
-    <li>CSS.</li>
+    <li>HTML (Markup language)</li>
+    <li>CSS (Style sheet language)</li>
+    <li>JavaScript (Web apps)</li>
+    <li>React (Frontend)</li>
   </ul>
-
-  <li>Markup languages:</li>
+  
+  <li>Backend</li>
 
   <ul>
-    <li>HTML.</li>
-    <li>XML.</li>
+    <li>SQL</li>
   </ul>
+  
+  <li>Others</li>
+
+  <ul>
+    <li>C++</li>
+    <li>Python</li>
+    <li>TeX</li>
+  </ul>
+
 </ol>
