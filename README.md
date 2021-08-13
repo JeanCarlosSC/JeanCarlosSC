@@ -24,7 +24,7 @@
 <br>
 
 <p>
-  Welcome to my GitHub! I'm Jean Carlos, a <b>Junior developer engineer</b> with focus on desktop applications (with Kotlin and Java) and web sites or applications (javascript, html, css) with knowledge of React, Git, GitHub. Self-taught systems engineer with a good level of English. 💻💻
+  Welcome to my GitHub! I'm Jean Carlos, a <b>Junior developer engineer</b> with focus on <i>desktop applications</i> (with Kotlin and Java) and <i>web sites or applications</i> (javascript, html, css) with knowledge of React, Git, GitHub. Self-taught systems engineer with a good level of English. 💻💻
 </p>
 
 <h3> ⚡ Relevant achievement</h3>
@@ -35,38 +35,41 @@
 
 <p> React.</p>
 
-<h3> 🧰 Open mind with:</h3>
+<h3> 🧰 My favorite tools</h3>
 
 <ol>
-  <li>Desktop and android apps</li>
+  <li>Desktop apps</li>
 
   <ul>
-    <li>Kotlin (Desktop and android apps)</li>
-    <li>Java (Desktop applications)</li>
-    <li>XML (Android markup language)</li>
+    <li>Kotlin (programming language)</li>
+    <li>Java (programming language)</li>
   </ul>
   
-  <li>Web design</li>
+  <li>Website/ web application</li>
 
   <ul>
-    <li>HTML (Markup language)</li>
-    <li>CSS (Style sheet language)</li>
-    <li>JavaScript (Web apps)</li>
-    <li>React (Frontend)</li>
+    <li>HTML (markup language)</li>
+    <li>CSS (style sheet language)</li>
+    <li>JavaScript (programming language)</li>
+    <li>Frontend</li>
+    <ul>
+      <li>React (JavaScript library)</li>
+    </ul>
+    
   </ul>
   
   <li>Backend</li>
-
+  
   <ul>
     <li>SQL</li>
   </ul>
   
-  <li>Others</li>
-
-  <ul>
-    <li>C++</li>
-    <li>Python</li>
-    <li>TeX</li>
-  </ul>
-
 </ol>
+
+<h3> 🧰 Other tools I have used</h3>
+
+<ol>
+  <li>Python (programming language)</li>
+  <li>C++ (programming language)</li>
+  <li>TeX (document file format)</li>
+ </ol>
