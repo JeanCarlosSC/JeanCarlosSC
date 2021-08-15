@@ -36,6 +36,7 @@
 <ol>
   <li> React (frontend JavaScript library)</li>
   <li> Kotlin (programming language)</li>
+  <li> PHP (programming language)</li>
 </ol>
 
 <h3> 🧰 My favorite tools</h3>
@@ -54,6 +55,7 @@
     <li>HTML (markup language)</li>
     <li>CSS (style sheet language)</li>
     <li>JavaScript (programming language)</li>
+    <li>PHP</li>
     <li>Frontend</li>
     <ul>
       <li>React (JavaScript library)</li>
