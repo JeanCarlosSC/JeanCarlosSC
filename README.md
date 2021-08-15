@@ -55,7 +55,7 @@
     <li>HTML (markup language)</li>
     <li>CSS (style sheet language)</li>
     <li>JavaScript (programming language)</li>
-    <li>PHP</li>
+    <li>PHP (programming language)</li>
     <li>Frontend</li>
     <ul>
       <li>React (JavaScript library)</li>
