@@ -57,7 +57,8 @@
   <ul>
     <li>HTML5 (markup language)</li>
     <img src="html5.png">
-    <li>CSS (style sheet language)</li>
+    <li>CSS3 (style sheet language)</li>
+    <img src="css3.png" width="64px" height="64px">
     <li>JavaScript (programming language)</li>
     <li>PHP (programming language)</li>
     <li>Frontend</li>
