@@ -60,16 +60,14 @@
     <li>CSS3 (style sheet language)</li>
     <img src="css3.png" width="64px" height="64px">
     <ul>
-      <li>Normalize (CSS library)</li>
+      <li>Normalize (library)</li>
       <img src="normalize.svg" width="64px" height="64px">
     </ul>
     <li>JavaScript (programming language)</li>
-    <li>PHP (programming language)</li>
-    <li>Frontend</li>
     <ul>
-      <li>React (JavaScript library)</li>
+      <li>React (library)</li>
     </ul>
-    
+    <li>PHP (programming language)</li>
   </ul>
   
   <li>Backend</li>
