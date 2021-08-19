@@ -38,7 +38,6 @@
 
 <ol>
   <li> React (frontend JavaScript library)</li>
-  <li> Kotlin (programming language)</li>
   <li> PHP (programming language)</li>
 </ol>
 
@@ -61,9 +60,10 @@
     <img src="css3.png" width="64px" height="64px">
     <ul>
       <li>Normalize (library)</li>
-      <img src="normalize.svg" width="64px" height="64px">
+      <img src="images/normalize.svg" width="64px" height="64px">
     </ul>
     <li>JavaScript (programming language)</li>
+      <img src="images/js.jpg" width="64px" height="64px">
     <ul>
       <li>React (library)</li>
     </ul>
