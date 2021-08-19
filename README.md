@@ -57,7 +57,7 @@
     <li>HTML5 (markup language)</li>
     <img src="html5.png">
     <li>CSS3 (style sheet language)</li>
-    <img src="css3.png" width="64px" height="64px">
+    <img src="images/css3.svg" width="64px" height="64px">
     <ul>
       <li>Normalize (library)</li>
       <img src="images/normalize.svg" width="64px" height="64px">
