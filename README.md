@@ -37,8 +37,7 @@
 <h3> 👁 I'm current learning</h3>
 
 <ol>
-  <li> React (frontend JavaScript library)</li>
-  <li> PHP (programming language)</li>
+  <li> Web design</li>
 </ol>
 
 <h3> 🧰 My favorite tools</h3>
