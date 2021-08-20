@@ -2,7 +2,7 @@
   All small icons are in 64px^2 
 -->
 <div align="center">
-  <img alt="Banner | JeanCarlosSC" src="https://i.imgur.com/34fiEUG.gif">
+  <img alt="Banner | JeanCarlosSC" src="banner.gif">
 </div>
 
 <br>
