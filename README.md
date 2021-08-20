@@ -55,7 +55,7 @@
 
   <ul>
     <li>HTML5 (markup language)</li>
-    <img src="html5.png">
+    <img src="images/html5.svg">
     <li>CSS3 (style sheet language)</li>
     <img src="images/css3.svg" width="64px" height="64px">
     <ul>
