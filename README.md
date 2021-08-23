@@ -47,6 +47,7 @@
 
   <ul>
     <li>Kotlin (programming language)</li>
+    <img src="images/kotlin.png" width="64px" height="64px">
     <li>Java (programming language)</li>
     <img src="images/java.png" width="64px" height="64px">
   </ul>
