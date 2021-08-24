@@ -83,6 +83,7 @@
 
 <ol>
   <li>Python (programming language)</li>
+  <img src="images/python.jpg" width="64px" height="64px">
   <li>C++ (programming language)</li>
   <li>TeX (document file format)</li>
  </ol>
