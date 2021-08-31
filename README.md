@@ -65,18 +65,20 @@
     </ul>
     <li>JavaScript (programming language)</li>
       <img src="images/js.jpg" width="64px" height="64px">
+    <!--
     <ul>
       <li>React (library)</li>
     </ul>
     <li>PHP (programming language)</li>
+    -->
   </ul>
-  
+  <!--
   <li>Backend</li>
   
   <ul>
     <li>SQL</li>
   </ul>
-  
+  -->
 </ol>
 
 <h3> 🧰 Other tools I have used</h3>
