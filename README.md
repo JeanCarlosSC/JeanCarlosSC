@@ -88,5 +88,4 @@
   <img src="images/python.svg" width="64px" height="64px">
   <li>C++ (programming language)</li>
   <img src="images/cpp.svg" width="64px" height="64px">
-  <li>TeX (document file format)</li>
  </ol>
