@@ -2,7 +2,7 @@
   All small icons are in 64px^2 
 -->
 <div align="center">
-  <img alt="Banner | JeanCarlosSC" src="banner.gif">
+  <img alt="Banner | JeanCarlosSC" src="images/banner.gif">
 </div>
 
 <br>
@@ -87,5 +87,6 @@
   <li>Python (programming language)</li>
   <img src="images/python.svg" width="64px" height="64px">
   <li>C++ (programming language)</li>
+  <img src="images/cpp.svg" width="64px" height="64px">
   <li>TeX (document file format)</li>
  </ol>
