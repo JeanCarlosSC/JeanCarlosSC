@@ -27,7 +27,7 @@
 <br>
 
 <p>
-  Welcome to my GitHub! I'm Jean Carlos, a <b>Junior developer engineer</b> with focus on <i>desktop applications</i> (with Kotlin and Java) and <i>web sites or applications</i> (javascript, html, css) with knowledge of Git, GitHub. Self-taught systems engineer with a good level of English. 💻💻
+  Welcome to my GitHub! I'm Jean Carlos, a c++ developer. 💻💻
 </p>
 
 <h3> ⚡ Relevant achievement</h3>
