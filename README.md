@@ -37,7 +37,7 @@
 <h3> 👁 I'm current learning</h3>
 
 <ol>
-  <li> Web design</li>
+  <li> C++</li>
 </ol>
 
 <h3> 🧰 My favorite tools</h3>
