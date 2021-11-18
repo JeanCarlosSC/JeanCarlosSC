@@ -27,7 +27,7 @@
 <br>
 
 <p>
-  Welcome to my GitHub! I'm Jean Carlos, a c++ developer. 💻💻
+  Welcome to my GitHub! 💻💻
 </p>
 
 <h3> ⚡ Relevant achievement</h3>
