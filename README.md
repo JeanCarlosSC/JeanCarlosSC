@@ -33,13 +33,13 @@
 <h3> ⚡ Relevant achievement</h3>
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
-
+<!---
 <h3> 👁 I'm current learning</h3>
 
 <ol>
   <li> C++</li>
 </ol>
-
+-->
 <h3> 🧰 My favorite tools</h3>
 
 <ol>
