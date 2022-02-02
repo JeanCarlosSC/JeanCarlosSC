@@ -33,16 +33,23 @@
 <h3> ⚡ Relevant achievement</h3>
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
-<!---
+
 <h3> 👁 I'm current learning</h3>
 
 <ol>
-  <li> C++</li>
+  <li> Game coding with C++.</li>
 </ol>
--->
+
 <h3> 🧰 My favorite tools</h3>
 
 <ol>
+  <li>Games</li>
+  
+ <ul>
+    <li>C++ (programming language)</li>
+    <img src="images/cpp.svg" width="64px" height="64px">
+  </ul>
+  
   <li>Desktop apps</li>
 
   <ul>
@@ -86,6 +93,4 @@
 <ol>
   <li>Python (programming language)</li>
   <img src="images/python.svg" width="64px" height="64px">
-  <li>C++ (programming language)</li>
-  <img src="images/cpp.svg" width="64px" height="64px">
  </ol>
