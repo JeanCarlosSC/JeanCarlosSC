@@ -26,9 +26,7 @@
 
 <br>
 
-<p>
-  Welcome to my GitHub! 💻💻
-</p>
+<p>💻 Welcome to my GitHub! 🎉</p>
 
 <h3> ⚡ Relevant achievement</h3>
 
