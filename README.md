@@ -33,45 +33,39 @@
 <h3> ⚡ Relevant achievement</h3>
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
-
+<!--
 <h3> 👁 I'm current learning</h3>
 
 <ol>
   <li> Game coding with C++.</li>
 </ol>
-
-<h3> 🧰 My favorite tools</h3>
+-->
+<h3> 🧰 My tools</h3>
 
 <ol>
-  <li>Games</li>
+  <li>Games 🕹</li>
   
  <ul>
-    <li>C++ (programming language)</li>
-    <img src="images/cpp.svg" width="64px" height="64px">
+   <li>Kotlin</li>
+   <li>Java</li>
   </ul>
   
-  <li>Desktop apps</li>
+  <li>Desktop apps 💻</li>
 
   <ul>
-    <li>Kotlin (programming language)</li>
-    <img src="images/kotlin.png" width="64px" height="64px">
-    <li>Java (programming language)</li>
-    <img src="images/java.png" width="64px" height="64px">
+    <li>Kotlin</li>
+    <li>Java</li>
   </ul>
   
-  <li>Website/ web application</li>
+  <li>Website/ web application 🎨</li>
 
   <ul>
-    <li>HTML5 (markup language)</li>
-    <img src="images/html5.svg" width="64px" height="64px">
-    <li>CSS3 (style sheet language)</li>
-    <img src="images/css3.svg" width="64px" height="64px">
+    <li>HTML5</li>
+    <li>CSS3</li>
     <ul>
-      <li>Normalize (library)</li>
-      <img src="images/normalize.svg" width="64px" height="64px">
+      <li>Normalize</li>
     </ul>
-    <li>JavaScript (programming language)</li>
-      <img src="images/js.jpg" width="64px" height="64px">
+    <li>JavaScript</li>
     <!--
     <ul>
       <li>React (library)</li>
@@ -86,11 +80,10 @@
     <li>SQL</li>
   </ul>
   -->
+  <li>Others 🙄</li>
+  
+  <ul>
+    <li>Python</li>
+  </ul>
+  
 </ol>
-
-<h3> 🧰 Other tools I have used</h3>
-
-<ol>
-  <li>Python (programming language)</li>
-  <img src="images/python.svg" width="64px" height="64px">
- </ol>
