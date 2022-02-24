@@ -46,6 +46,7 @@
  <ul>
    <li>Kotlin</li>
    <li>Java</li>
+   <li>C +  +</li>
   </ul>
   
   <li>Desktop apps 💻</li>
@@ -78,11 +79,16 @@
     <li>SQL</li>
   </ul>
   -->
+  <li>Arduino 🔋</li>
+  
+  <ul>
+    <li>C +  +</li>
+  </ul>
+  
   <li>Others 🙄</li>
   
   <ul>
     <li>Python</li>
-    <li>C +  +</li>
   </ul>
   
 </ol>
