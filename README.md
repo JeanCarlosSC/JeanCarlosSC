@@ -38,7 +38,7 @@
   <li> Game coding with C++.</li>
 </ol>
 -->
-<h3> 🧰 My tools</h3>
+<h3> 🧰 Tools</h3>
 
 <ol>
   <li>Games 🕹</li>
