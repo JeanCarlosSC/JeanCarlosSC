@@ -65,26 +65,7 @@
       <li>Normalize</li>
     </ul>
     <li>JavaScript</li>
-    <!--
-    <ul>
-      <li>React (library)</li>
-    </ul>
-    <li>PHP (programming language)</li>
-    -->
   </ul>
-  <!--
-  <li>Backend</li>
-  
-  <ul>
-    <li>SQL</li>
-  </ul>
-  -->
-  <li>Arduino 🔋</li>
-  
-  <ul>
-    <li>C +  +</li>
-  </ul>
-  
   <li>Others 🙄</li>
   
   <ul>
