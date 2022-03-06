@@ -31,45 +31,9 @@
 <h3> ⚡ Relevant achievement</h3>
 
 <p> Study at the Francisco José de Caldas district university at a very low cost.</p>
-<!--
+
 <h3> 👁 I'm current learning</h3>
 
 <ol>
-  <li> Game coding with C++.</li>
-</ol>
--->
-<h3> 🧰 Tools</h3>
-
-<ol>
-  <li>Games 🕹</li>
-  
- <ul>
-   <li>Kotlin</li>
-   <li>Java</li>
-   <li>C +  +</li>
-  </ul>
-  
-  <li>Desktop apps 💻</li>
-
-  <ul>
-    <li>Kotlin</li>
-    <li>Java</li>
-  </ul>
-  
-  <li>Website/ web application 🎨</li>
-
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <ul>
-      <li>Normalize</li>
-    </ul>
-    <li>JavaScript</li>
-  </ul>
-  <li>Others 🙄</li>
-  
-  <ul>
-    <li>Python</li>
-  </ul>
-  
+  <li> JavaScript.</li>
 </ol>
