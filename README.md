@@ -12,12 +12,12 @@
     <tr>
       <td border="0">
         <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8" />
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlosSC&show_icons=true&hide_border=true&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&count_private=true&include_all_commits=true" />
         </a>
       </td>
       <td border="0">
         <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats">
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosSC&layout=compact&title_color=6CA0FF&icon_color=6CA0FF&bg_color=151515&text_color=c8c8c8&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
         </a>
       </td>
     </tr>
