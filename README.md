@@ -1,6 +1,6 @@
-<!---
-  All small icons are in 64px^2 
--->
+
+<h1 align="center">💻 Welcome to my GitHub! 🎉</h1>
+
 <div align="center">
   <img alt="Banner | JeanCarlosSC" src="images/banner.gif">
 </div>
@@ -26,14 +26,8 @@
 
 <br>
 
-<p>💻 Welcome to my GitHub! 🎉</p>
-
-<h3> ⚡ Relevant achievement</h3>
-
-<p> Study at the Francisco José de Caldas district university at a very low cost.</p>
-
-<h3> 👁 I'm current learning</h3>
+<h2>⚡ I'm current learning ⚡</h2>
 
 <ol>
-  <li> JavaScript.</li>
+  <li> React.</li>
 </ol>
