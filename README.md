@@ -2,7 +2,7 @@
 <h1 align="center">💻 Welcome to my GitHub! 🎉</h1>
 
 <div align="center">
-  <img alt="Banner | JeanCarlosSC" src="images/banner.gif">
+  <img alt="Banner | JeanCarlosSC" src="images/banner.gif" loading="lazy">
 </div>
 
 <br>
