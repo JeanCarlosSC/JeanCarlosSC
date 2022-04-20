@@ -23,11 +23,3 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-
-<h2>⚡ I'm current learning ⚡</h2>
-
-<ol>
-  <li> React.</li>
-</ol>
