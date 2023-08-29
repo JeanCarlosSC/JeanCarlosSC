@@ -6,7 +6,7 @@
 </div>
 
 <br>
-<p>Hi, I'm Jean Carlos, a systems engineering student with an emphasis in software development. I'm glad you're here.</p>
+<p>Hi, I'm Jean Carlos, a Systems Engineering student with an emphasis in Software development. I'm glad you're here.</p>
 
 <br>
 <table border="0">
