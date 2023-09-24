@@ -1,12 +1,13 @@
 
-<h1 align="center">💻 Welcome to my GitHub! 🎉</h1>
+<h1 align="center">🎉 Welcome to my GitHub! 🎉</h1>
 
 <div align="center">
   <img alt="Banner | JeanCarlosSC" src="images/banner.gif" loading="lazy">
 </div>
 
 <br>
-<p>Hi, I'm Jean Carlos, a Systems Engineering student with emphasis in Software Development. I'm glad you're here.</p>
+<p>📱 Hi, I'm Jean Carlos, a Systems Engineering student with emphasis in Software Development. I'm glad you're here.</p>
+<p>📱 I'm interested in all about Android Software Development.</p>
 
 <br>
 <table border="0">
