@@ -7,7 +7,6 @@
 
 <br>
 <p>📱 Hi, I'm Jean Carlos, a Systems Engineering student with emphasis in Software Development. I'm glad you're here.</p>
-<p>📱 I'm interested in all about Android Software Development.</p>
 
 <br>
 <table border="0">
