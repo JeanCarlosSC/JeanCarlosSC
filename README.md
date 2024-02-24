@@ -1,12 +1,16 @@
 
-<h1 align="center">🎉 Welcome to my GitHub! 🎉</h1>
+<h1 align="center">🎉 ¡Bienvenido a mi perfil de GitHub! 🎉</h1>
 
 <div align="center">
   <img alt="Banner | JeanCarlosSC" src="images/banner.gif" loading="lazy">
 </div>
 
 <br>
-<p>📱 Hi, I'm Jean Carlos, a Systems Engineering student with emphasis in Software Development. I'm glad you're here.</p>
+<p>🛠️ Estoy interesado en brindar soluciones y optimizar procesos mediante el uso del desarrollo web FullStack y la automatización con DevOps.</p>
+<p>🎨 Actualmente estoy desarrollando habilidades en las siguientes tecnologías específicas:</p>
+<ul>
+  <li>React. (Frontend)</li>
+</ul>
 
 <br>
 <table border="0">
