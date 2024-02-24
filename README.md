@@ -7,7 +7,7 @@
 
 <br>
 <p>🛠️ Estoy interesado en brindar soluciones y optimizar procesos mediante el uso del desarrollo web FullStack y la automatización con DevOps.</p>
-<p>🎨 Tecnologìas específicas:</p>
+<p>🎨 Tecnologías específicas:</p>
 <ul>
   <li>React. (Frontend)</li>
 </ul>
