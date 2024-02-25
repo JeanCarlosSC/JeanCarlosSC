@@ -11,7 +11,7 @@
 <ul>
   <li>Node JS.</li>
   <li>Next JS.</li>
-  <li>Nest JS</li>
+  <li>Nest JS.</li>
 </ul>
 
 <br>
