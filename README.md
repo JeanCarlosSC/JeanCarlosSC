@@ -11,6 +11,12 @@
 <ul>
   <li>React.</li>
   <li>Next JS.</li>
+  <li>Nest JS</li>
+  <li>Node JS.</li>
+  <li>CSS.</li>
+  <li>TypeScript.</li>
+  <li>JavaScript.</li>
+  <li>HTML.</li>
 </ul>
 
 <br>
