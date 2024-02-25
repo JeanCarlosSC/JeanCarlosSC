@@ -9,13 +9,9 @@
 <p>🛠️ Estoy interesado en brindar soluciones y optimizar procesos mediante el uso del desarrollo web FullStack y la automatización con DevOps.</p>
 <p>🎨 Aprendiendo:</p>
 <ul>
+  <li>Node JS.</li>
   <li>Next JS.</li>
   <li>Nest JS</li>
-  <li>Node JS.</li>
-  <li>CSS.</li>
-  <li>TypeScript.</li>
-  <li>JavaScript.</li>
-  <li>HTML.</li>
 </ul>
 
 <br>
