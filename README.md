@@ -10,8 +10,6 @@
 <p>🎨 Aprendiendo:</p>
 <ul>
   <li>Node JS.</li>
-  <li>Next JS.</li>
-  <li>Nest JS.</li>
 </ul>
 
 <br>
