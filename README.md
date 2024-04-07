@@ -6,13 +6,6 @@
 </div>
 
 <br>
-<p>🛠️ Estoy interesado en brindar soluciones y optimizar procesos mediante el uso del desarrollo web FullStack y la automatización con DevOps.</p>
-<p>🎨 Aprendiendo:</p>
-<ul>
-  <li>Node JS.</li>
-</ul>
-
-<br>
 <table border="0">
   <tbody>
     <tr>
