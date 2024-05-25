@@ -1,6 +1,8 @@
 
 <h1 align="center">🎉 ¡Bienvenido a mi perfil de GitHub! 🎉</h1>
 
+<p>📱 Soy Jean Carlos Santoya Cabrera, estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas y un desarrollador android junior.</p>
+
 <div align="center">
   <img alt="Banner | JeanCarlosSC" src="images/banner.gif" loading="lazy">
 </div>
