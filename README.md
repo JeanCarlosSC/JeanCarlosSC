@@ -1,12 +1,4 @@
 
-<h1 align="center">🎉 ¡Bienvenido a mi perfil de GitHub! 🎉</h1>
-
-<p>📱 Soy Jean Carlos Santoya, estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas.</p>
-
-<div align="center">
-  <img alt="Banner | JeanCarlosSC" src="images/banner.gif" loading="lazy">
-</div>
-
 <br>
 <table border="0">
   <tbody>
